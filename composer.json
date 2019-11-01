@@ -30,7 +30,7 @@
         "symbiote/silverstripe-gridfieldextensions": "Allows drag-and-drop reordering of fields"
     },
     "extra": {
-        "resources-dir": "_resources",
+        "installer-name": "silverstripe-memberprofiles",
         "expose": [
             "client"
         ],
