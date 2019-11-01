@@ -1,5 +1,5 @@
 {
-    "name": "herbertcuba/silverstripe-memberprofiles",
+    "name": "symbiote/silverstripe-memberprofiles",
     "description": "A fork of Member registration and profile management",
     "type": "silverstripe-vendormodule",
     "keywords": [
